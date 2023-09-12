@@ -1,4 +1,5 @@
-#Simple automated test script using Python with the help of Selenium.
+***Simple automated test script using Python with the help of Selenium.***
+
 To ensure the proper functioning of Selenium with Chrome, it is imperative to maintain compatibility between the installed Chrome browser and the corresponding ChromeDriver version. Currently, my local Chrome browser is version 116, while the available ChromeDriver version is 114. Unfortunately, I have been unable to locate a ChromeDriver version 116, as it appears to have not been released as of my last knowledge update in September 2021.
 
 Things that can be done:
